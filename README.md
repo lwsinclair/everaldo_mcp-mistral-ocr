@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/mcp-mirror-everaldo-mcp-mistral-ocr-badge.jpg)](https://mseep.ai/app/mcp-mirror-everaldo-mcp-mistral-ocr)
+
 # MCP Mistral OCR
 
 An MCP server that provides OCR capabilities using Mistral AI's OCR API. This server can process both local files and URLs, supporting images and PDFs.
